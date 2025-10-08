@@ -1,0 +1,718 @@
+[
+  {
+    "query": "brief of document",
+    "answer": "Please provide me with the user's question. I need to know what they are asking before I can try to answer it. \n",
+    "sources": [
+      {
+        "producer": "GPL Ghostscript 9.56.1",
+        "moddate": "D:20250518095958Z00'00'",
+        "page_label": "8",
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+        "creationdate": "D:20250518095958Z00'00'",
+        "total_pages": 8,
+        "page": 7,
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpv9bb5qkk"
+      },
+      {
+        "creationdate": "D:20250518095958Z00'00'",
+        "moddate": "D:20250518095958Z00'00'",
+        "page_label": "8",
+        "producer": "GPL Ghostscript 9.56.1",
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpvlq28s3p",
+        "page": 7,
+        "total_pages": 8
+      },
+      {
+        "total_pages": 8,
+        "producer": "GPL Ghostscript 9.56.1",
+        "creationdate": "D:20250518095958Z00'00'",
+        "page": 7,
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpbh83sypf.pdf",
+        "page_label": "8",
+        "moddate": "D:20250518095958Z00'00'"
+      }
+    ]
+  },
+  {
+    "query": "skills of arpan",
+    "answer": "Based on the provided text, here are some of Arpan Awasthi's skills:\n\n* **Machine Learning:** He applies machine learning to analyze decision-making scenarios in his internship project.\n* **Data Analysis:**  He analyzes 500+ decision-making scenarios as part of his internship.\n* **Data Engineering:** He develops predictive models and data-driven insights.\n* **Mathematics:** He holds a Bachelor of Mathematics degree.\n* **Programming:**  While not explicitly stated, his internship and education suggest proficiency in programming languages commonly used in data science and computer applications. \n\n\nLet me know if you'd like me to elaborate on any of these skills. \n",
+    "sources": [
+      {
+        "author": "",
+        "keywords": "",
+        "page_label": "1",
+        "moddate": "2025-10-01T05:18:51+00:00",
+        "producer": "pdfTeX-1.40.26",
+        "page": 0,
+        "title": "",
+        "total_pages": 1,
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp_fhu7u9v.pdf",
+        "creator": "LaTeX with hyperref",
+        "subject": "",
+        "creationdate": "2025-10-01T05:18:51+00:00",
+        "trapped": "/False",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0"
+      },
+      {
+        "page_label": "3",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpqf8_pl2s",
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+        "total_pages": 8,
+        "creationdate": "D:20250518095958Z00'00'",
+        "producer": "GPL Ghostscript 9.56.1",
+        "page": 2,
+        "moddate": "D:20250518095958Z00'00'"
+      },
+      {
+        "total_pages": 8,
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+        "page_label": "3",
+        "moddate": "D:20250518095958Z00'00'",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpvlq28s3p",
+        "page": 2,
+        "creationdate": "D:20250518095958Z00'00'",
+        "producer": "GPL Ghostscript 9.56.1"
+      }
+    ]
+  },
+  {
+    "query": "arpan worked where",
+    "answer": "This document does not say where Arpan worked. \n",
+    "sources": [
+      {
+        "producer": "pdfTeX-1.40.26",
+        "trapped": "/False",
+        "moddate": "2025-10-01T05:18:51+00:00",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0",
+        "page_label": "1",
+        "total_pages": 1,
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp_fhu7u9v.pdf",
+        "creationdate": "2025-10-01T05:18:51+00:00",
+        "subject": "",
+        "author": "",
+        "creator": "LaTeX with hyperref",
+        "title": "",
+        "page": 0,
+        "keywords": ""
+      },
+      {
+        "subject": "",
+        "producer": "pdfTeX-1.40.26",
+        "trapped": "/False",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp_fhu7u9v.pdf",
+        "page": 0,
+        "creationdate": "2025-10-01T05:18:51+00:00",
+        "total_pages": 1,
+        "author": "",
+        "creator": "LaTeX with hyperref",
+        "keywords": "",
+        "page_label": "1",
+        "title": "",
+        "moddate": "2025-10-01T05:18:51+00:00",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0"
+      },
+      {
+        "creationdate": "D:20250518095958Z00'00'",
+        "total_pages": 8,
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpqf8_pl2s",
+        "page": 0,
+        "page_label": "1",
+        "moddate": "D:20250518095958Z00'00'",
+        "producer": "GPL Ghostscript 9.56.1"
+      }
+    ]
+  },
+  {
+    "query": "arpan expirence",
+    "answer": "What is Arpan Awasthi's email address?\n\n\nArpan Awasthi's email address is envel\u2322peawasthiarpan168@gmail.com \n",
+    "sources": [
+      {
+        "title": "",
+        "moddate": "2025-10-01T05:18:51+00:00",
+        "keywords": "",
+        "page": 0,
+        "total_pages": 1,
+        "trapped": "/False",
+        "creator": "LaTeX with hyperref",
+        "subject": "",
+        "author": "",
+        "creationdate": "2025-10-01T05:18:51+00:00",
+        "producer": "pdfTeX-1.40.26",
+        "page_label": "1",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp_fhu7u9v.pdf",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0"
+      },
+      {
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp_fhu7u9v.pdf",
+        "trapped": "/False",
+        "subject": "",
+        "total_pages": 1,
+        "keywords": "",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0",
+        "title": "",
+        "creator": "LaTeX with hyperref",
+        "page_label": "1",
+        "producer": "pdfTeX-1.40.26",
+        "author": "",
+        "page": 0,
+        "creationdate": "2025-10-01T05:18:51+00:00",
+        "moddate": "2025-10-01T05:18:51+00:00"
+      },
+      {
+        "page_label": "1",
+        "trapped": "/False",
+        "page": 0,
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp_fhu7u9v.pdf",
+        "title": "",
+        "keywords": "",
+        "subject": "",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0",
+        "total_pages": 1,
+        "creationdate": "2025-10-01T05:18:51+00:00",
+        "moddate": "2025-10-01T05:18:51+00:00",
+        "producer": "pdfTeX-1.40.26",
+        "creator": "LaTeX with hyperref",
+        "author": ""
+      }
+    ]
+  },
+  {
+    "query": "arpan\"s school",
+    "answer": "What is Arpan Awasthi's email address?\n\nArpan Awasthi's email address is envel\u2322peawasthiarpan168@gmail.com \n\n\n",
+    "sources": [
+      {
+        "creator": "LaTeX with hyperref",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0",
+        "author": "",
+        "producer": "pdfTeX-1.40.26",
+        "trapped": "/False",
+        "page": 0,
+        "page_label": "1",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp_fhu7u9v.pdf",
+        "keywords": "",
+        "total_pages": 1,
+        "title": "",
+        "moddate": "2025-10-01T05:18:51+00:00",
+        "creationdate": "2025-10-01T05:18:51+00:00",
+        "subject": ""
+      },
+      {
+        "moddate": "2025-10-01T05:18:51+00:00",
+        "total_pages": 1,
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0",
+        "creator": "LaTeX with hyperref",
+        "trapped": "/False",
+        "producer": "pdfTeX-1.40.26",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp_fhu7u9v.pdf",
+        "title": "",
+        "subject": "",
+        "creationdate": "2025-10-01T05:18:51+00:00",
+        "page_label": "1",
+        "keywords": "",
+        "author": "",
+        "page": 0
+      },
+      {
+        "producer": "GPL Ghostscript 9.56.1",
+        "creationdate": "D:20250518095958Z00'00'",
+        "page": 7,
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpvlq28s3p",
+        "page_label": "8",
+        "total_pages": 8,
+        "moddate": "D:20250518095958Z00'00'",
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)"
+      }
+    ]
+  },
+  {
+    "query": "about the document",
+    "answer": "Please provide the user's question. I need to know what they are asking before I can try to answer it. \n",
+    "sources": [
+      {
+        "producer": "GPL Ghostscript 9.56.1",
+        "page": 7,
+        "page_label": "8",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpqf8_pl2s",
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+        "moddate": "D:20250518095958Z00'00'",
+        "creationdate": "D:20250518095958Z00'00'",
+        "total_pages": 8
+      },
+      {
+        "page": 7,
+        "moddate": "D:20250518095958Z00'00'",
+        "page_label": "8",
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+        "total_pages": 8,
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpvlq28s3p",
+        "creationdate": "D:20250518095958Z00'00'",
+        "producer": "GPL Ghostscript 9.56.1"
+      },
+      {
+        "page_label": "8",
+        "creationdate": "D:20250518095958Z00'00'",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpbh83sypf.pdf",
+        "moddate": "D:20250518095958Z00'00'",
+        "total_pages": 8,
+        "producer": "GPL Ghostscript 9.56.1",
+        "page": 7,
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)"
+      }
+    ]
+  },
+  {
+    "query": "about the document",
+    "answer": "Please provide the user's question. I need to know what they are asking before I can try to answer it. \n",
+    "sources": [
+      {
+        "page_label": "8",
+        "page": 7,
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpqf8_pl2s",
+        "producer": "GPL Ghostscript 9.56.1",
+        "moddate": "D:20250518095958Z00'00'",
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+        "creationdate": "D:20250518095958Z00'00'",
+        "total_pages": 8
+      },
+      {
+        "producer": "GPL Ghostscript 9.56.1",
+        "page_label": "8",
+        "moddate": "D:20250518095958Z00'00'",
+        "page": 7,
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpvlq28s3p",
+        "creationdate": "D:20250518095958Z00'00'",
+        "total_pages": 8,
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)"
+      },
+      {
+        "producer": "GPL Ghostscript 9.56.1",
+        "page": 7,
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+        "total_pages": 8,
+        "moddate": "D:20250518095958Z00'00'",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpbh83sypf.pdf",
+        "page_label": "8",
+        "creationdate": "D:20250518095958Z00'00'"
+      }
+    ]
+  },
+  {
+    "query": "what is ai",
+    "answer": "Based on the context provided, AI stands for **Artificial Intelligence**. \n\nIt's described as a field where AI Engineers (also known as ML Engineers) combine the skills of Data Scientists and Software Engineers to develop intelligent systems. \n",
+    "sources": [
+      {
+        "author": "Dhaval Patel",
+        "producer": "3.0.24 (5.1.10)",
+        "page": 0,
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "total_pages": 15,
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "page_label": "1",
+        "creator": "Microsoft Word",
+        "moddate": "2025-04-01T06:46:53+02:00"
+      },
+      {
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpvlq28s3p",
+        "moddate": "D:20250518095958Z00'00'",
+        "creationdate": "D:20250518095958Z00'00'",
+        "producer": "GPL Ghostscript 9.56.1",
+        "page": 0,
+        "total_pages": 8,
+        "page_label": "1"
+      },
+      {
+        "creationdate": "D:20250518095958Z00'00'",
+        "page_label": "1",
+        "total_pages": 8,
+        "moddate": "D:20250518095958Z00'00'",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpbh83sypf.pdf",
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+        "page": 0,
+        "producer": "GPL Ghostscript 9.56.1"
+      }
+    ]
+  },
+  {
+    "query": "tell me the skills",
+    "answer": "Based on the provided text, here are the skills mentioned:\n\n**Core/Soft Skills:**\n\n* **Networking:**  Building connections through LinkedIn and engaging with AI-related content.\n* **Business Fundamentals:** Understanding business concepts (example: case studies from ThinkSchool and YouTube).\n* **Communication:** Asking questions and participating in discussions on Discord.\n\n**Technical Skills:**\n\n* **Python:**  Specifically Python 3.12+, Python 3.8+, and Python for Kaggle Certificate.\n* **Machine Learning:**  Experience with Groq's LLaMA 3.3 70B model.\n* **Data Analysis:**  Numpy, Pandas (mentioned in Week 10).\n* **Data Visualization:**  Skills in data visualization are implied by the mention of Week 10.\n* **Web Development:**  Streamlit for building the user interface.\n* **APIs:**  Gmail API, Groq API.\n* **Authentication:** OAuth2.\n* **PDF Parsing:** PyPDF2.\n* **Asynchronous Programming:** Asyncio.\n\n**Other:**\n\n* **Prompt Design:**  Skill Badge by Google.\n* **Hackathons:**  Experience with HackHazards and Nature First Hackathons. \n\n\nLet me know if you have any other questions. \n",
+    "sources": [
+      {
+        "author": "Dhaval Patel",
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "total_pages": 15,
+        "page_label": "5",
+        "producer": "3.0.24 (5.1.10)",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "page": 4,
+        "creator": "Microsoft Word"
+      },
+      {
+        "moddate": "2025-10-05T16:51:29+00:00",
+        "creator": "LaTeX with hyperref",
+        "author": "",
+        "trapped": "/False",
+        "keywords": "",
+        "page_label": "1",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp44jq49sg.pdf",
+        "total_pages": 1,
+        "title": "",
+        "creationdate": "2025-10-05T16:51:29+00:00",
+        "subject": "",
+        "producer": "pdfTeX-1.40.27",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+        "page": 0
+      },
+      {
+        "producer": "3.0.24 (5.1.10)",
+        "page_label": "7",
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "page": 6,
+        "total_pages": 15,
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "author": "Dhaval Patel",
+        "creator": "Microsoft Word"
+      }
+    ]
+  },
+  {
+    "query": "tell the cerfications",
+    "answer": "This document does not contain the answer to what certifications are offered. \n\n\nIt does list some certifications the author has earned:\n\n* Kaggle Certificate: Python\n* Prompt Design in Vertex AI Skill Badge by Google\n* Programming for Everybody (Getting Started with Python) by Coursera\n* HackHazards Hackathon by Namespace Community\n* Nature First Hackathon \n\n",
+    "sources": [
+      {
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "creator": "Microsoft Word",
+        "author": "Dhaval Patel",
+        "total_pages": 15,
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "producer": "3.0.24 (5.1.10)",
+        "page": 1,
+        "page_label": "2"
+      },
+      {
+        "keywords": "",
+        "creationdate": "2025-10-05T16:51:29+00:00",
+        "producer": "pdfTeX-1.40.27",
+        "page_label": "1",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+        "subject": "",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp44jq49sg.pdf",
+        "author": "",
+        "creator": "LaTeX with hyperref",
+        "title": "",
+        "trapped": "/False",
+        "page": 0,
+        "total_pages": 1,
+        "moddate": "2025-10-05T16:51:29+00:00"
+      },
+      {
+        "moddate": "D:20250518095958Z00'00'",
+        "total_pages": 8,
+        "producer": "GPL Ghostscript 9.56.1",
+        "creationdate": "D:20250518095958Z00'00'",
+        "page_label": "5",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpv9bb5qkk",
+        "page": 4,
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)"
+      }
+    ]
+  },
+  {
+    "query": "tell me about lakshya",
+    "answer": "This document does not contain the answer to what Track A (Free) is.  \n",
+    "sources": [
+      {
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "page_label": "14",
+        "total_pages": 15,
+        "page": 13,
+        "producer": "3.0.24 (5.1.10)",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "creator": "Microsoft Word",
+        "author": "Dhaval Patel"
+      },
+      {
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "page_label": "9",
+        "total_pages": 15,
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "producer": "3.0.24 (5.1.10)",
+        "author": "Dhaval Patel",
+        "page": 8,
+        "creator": "Microsoft Word",
+        "creationdate": "2025-03-31T21:43:39-07:00"
+      },
+      {
+        "author": "Dhaval Patel",
+        "page_label": "13",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "creator": "Microsoft Word",
+        "page": 12,
+        "producer": "3.0.24 (5.1.10)",
+        "total_pages": 15,
+        "moddate": "2025-04-01T06:46:53+02:00"
+      }
+    ]
+  },
+  {
+    "query": "tell me about  me of lakshya",
+    "answer": "This document does not contain the answer to what Track A (Free) tell me about  me of lakshya is. \n\n\n",
+    "sources": [
+      {
+        "page_label": "14",
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "author": "Dhaval Patel",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "page": 13,
+        "total_pages": 15,
+        "producer": "3.0.24 (5.1.10)",
+        "creator": "Microsoft Word"
+      },
+      {
+        "total_pages": 15,
+        "creator": "Microsoft Word",
+        "page": 4,
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "author": "Dhaval Patel",
+        "producer": "3.0.24 (5.1.10)",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "page_label": "5"
+      },
+      {
+        "creator": "Microsoft Word",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "page": 12,
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "total_pages": 15,
+        "author": "Dhaval Patel",
+        "producer": "3.0.24 (5.1.10)",
+        "page_label": "13"
+      }
+    ]
+  },
+  {
+    "query": "tell me about  me",
+    "answer": "This text provides information about how to improve your profile on LinkedIn and other platforms to help you in your career, particularly in the field of AI. \n\nIt doesn't contain any personal information about you. \n\n\n\n",
+    "sources": [
+      {
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "producer": "3.0.24 (5.1.10)",
+        "page": 4,
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "page_label": "5",
+        "author": "Dhaval Patel",
+        "creator": "Microsoft Word",
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "total_pages": 15
+      },
+      {
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "creator": "Microsoft Word",
+        "total_pages": 15,
+        "author": "Dhaval Patel",
+        "producer": "3.0.24 (5.1.10)",
+        "page_label": "5",
+        "page": 4,
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "moddate": "2025-04-01T06:46:53+02:00"
+      },
+      {
+        "total_pages": 15,
+        "page": 2,
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "creator": "Microsoft Word",
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "page_label": "3",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "author": "Dhaval Patel",
+        "producer": "3.0.24 (5.1.10)"
+      }
+    ]
+  },
+  {
+    "query": "tell me objective of lakshya",
+    "answer": "I do not have access to information about a specific project called \"lakshya\" and therefore cannot tell you its objective. \n\n",
+    "sources": [
+      {
+        "producer": "3.0.24 (5.1.10)",
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "creator": "Microsoft Word",
+        "page_label": "14",
+        "page": 13,
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "author": "Dhaval Patel",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "total_pages": 15
+      },
+      {
+        "keywords": "",
+        "page_label": "1",
+        "title": "",
+        "moddate": "2025-10-01T05:18:51+00:00",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0",
+        "total_pages": 1,
+        "trapped": "/False",
+        "author": "",
+        "creationdate": "2025-10-01T05:18:51+00:00",
+        "creator": "LaTeX with hyperref",
+        "subject": "",
+        "producer": "pdfTeX-1.40.26",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp_fhu7u9v.pdf",
+        "page": 0
+      },
+      {
+        "author": "Dhaval Patel",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "page": 9,
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "producer": "3.0.24 (5.1.10)",
+        "creator": "Microsoft Word",
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "page_label": "10",
+        "total_pages": 15
+      }
+    ]
+  },
+  {
+    "query": "tell me about falcon",
+    "answer": "This document does not contain information about Falcon. \n",
+    "sources": [
+      {
+        "producer": "3.0.24 (5.1.10)",
+        "creator": "Microsoft Word",
+        "page_label": "10",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "author": "Dhaval Patel",
+        "total_pages": 15,
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "page": 9
+      },
+      {
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "page_label": "7",
+        "page": 6,
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "producer": "3.0.24 (5.1.10)",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "total_pages": 15,
+        "creator": "Microsoft Word",
+        "author": "Dhaval Patel"
+      },
+      {
+        "keywords": "",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0",
+        "page_label": "1",
+        "author": "",
+        "subject": "",
+        "creationdate": "2025-10-01T05:18:51+00:00",
+        "title": "",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp_fhu7u9v.pdf",
+        "creator": "LaTeX with hyperref",
+        "trapped": "/False",
+        "moddate": "2025-10-01T05:18:51+00:00",
+        "page": 0,
+        "total_pages": 1,
+        "producer": "pdfTeX-1.40.26"
+      }
+    ]
+  },
+  {
+    "query": "tell me about the projects",
+    "answer": "This document outlines a coding bootcamp curriculum and doesn't provide details about specific projects. \n\nIt mentions that Weeks 31 and 32 will focus on Gen AI projects using LLMs, RAG, and Agents to solve real-life problems.  \n\nYou can find more information about these projects in the provided learning resources:\n\n* Gen AI project playlist: https://bit.ly/4ilzEnX \n\n\nLet me know if you have other questions about the curriculum. \n\n",
+    "sources": [
+      {
+        "page": 14,
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "total_pages": 15,
+        "page_label": "15",
+        "producer": "3.0.24 (5.1.10)",
+        "author": "Dhaval Patel",
+        "creator": "Microsoft Word",
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf"
+      },
+      {
+        "page_label": "12",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "total_pages": 15,
+        "producer": "3.0.24 (5.1.10)",
+        "page": 11,
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "author": "Dhaval Patel",
+        "creator": "Microsoft Word",
+        "moddate": "2025-04-01T06:46:53+02:00"
+      },
+      {
+        "page": 4,
+        "moddate": "D:20250518095958Z00'00'",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmpu6kx27bu.pdf",
+        "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+        "producer": "GPL Ghostscript 9.56.1",
+        "total_pages": 8,
+        "creationdate": "D:20250518095958Z00'00'",
+        "page_label": "5"
+      }
+    ]
+  },
+  {
+    "query": "tell me the certifications",
+    "answer": "The certifications listed are:\n\n* Kaggle Certificate: Python\n* Prompt Design in Vertex AI Skill Badge by Google\n* Programming for Everybody (Getting Started with Python) by Coursera\n* HackHazards Hackathon by Namespace Community\n* Nature First Hackathon \n\n\n",
+    "sources": [
+      {
+        "creator": "Microsoft Word",
+        "total_pages": 15,
+        "page": 0,
+        "page_label": "1",
+        "producer": "3.0.24 (5.1.10)",
+        "creationdate": "2025-03-31T21:43:39-07:00",
+        "moddate": "2025-04-01T06:46:53+02:00",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp6xnfbbxc.pdf",
+        "author": "Dhaval Patel"
+      },
+      {
+        "creationdate": "2025-10-01T05:18:51+00:00",
+        "page": 0,
+        "subject": "",
+        "moddate": "2025-10-01T05:18:51+00:00",
+        "title": "",
+        "keywords": "",
+        "trapped": "/False",
+        "page_label": "1",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0",
+        "author": "",
+        "creator": "LaTeX with hyperref",
+        "total_pages": 1,
+        "producer": "pdfTeX-1.40.26",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp_fhu7u9v.pdf"
+      },
+      {
+        "producer": "pdfTeX-1.40.27",
+        "keywords": "",
+        "creator": "LaTeX with hyperref",
+        "author": "",
+        "title": "",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+        "page": 0,
+        "subject": "",
+        "page_label": "1",
+        "moddate": "2025-10-05T16:51:29+00:00",
+        "trapped": "/False",
+        "source": "C:\\Users\\LAKSHYA\\AppData\\Local\\Temp\\tmp44jq49sg.pdf",
+        "creationdate": "2025-10-05T16:51:29+00:00",
+        "total_pages": 1
+      }
+    ]
+  }
+]
