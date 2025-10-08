@@ -32,3 +32,4 @@ test_*.py
 # Environment files (keep template, ignore actual keys)
 .env.local
 .env.production
+.env
