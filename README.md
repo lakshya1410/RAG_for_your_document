@@ -73,10 +73,4 @@ answer, sources = ask_question("What is the main topic?", k=3)
 - **"Vector store is empty"**: Upload and process documents first
 - **"Error processing file"**: Ensure supported format (PDF, CSV, TXT) and valid encoding
 
-## � License
 
-MIT License - All document processing happens locally for privacy.
-
-## 🤝 Contributing
-
-Contributions welcome! Open an issue or submit a PR.
