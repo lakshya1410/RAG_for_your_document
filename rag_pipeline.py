@@ -137,7 +137,7 @@ def ask_question(query, k=3):
             raise ValueError("GROQ_API_KEY not found in environment variables. Please set your Groq API key in the .env file.")
             
         llm = ChatGroq(
-            model="gemma2-9b-it",
+            model="llama-3.1-8b-instant",
             groq_api_key=api_key,
             temperature=0
         )
